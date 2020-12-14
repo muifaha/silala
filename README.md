@@ -2,8 +2,8 @@
   
 ## Sistem Layanan Laboratorium Jurusan Sejarah - Silala
 
-
-<p align="center">Build With<img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center">Build With:</p>
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 ## About Laravel
 
