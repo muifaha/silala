@@ -1,6 +1,6 @@
 <p align="center">
+  
 ## Sistem Layanan Laboratorium Jurusan Sejarah - Silala
-</p>
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
