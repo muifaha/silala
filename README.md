@@ -1,2 +1,2 @@
 # silala
-Sistem Lahanan Laboratorium Jurusan Sejarah UNNES
+Sistem Layanan Laboratorium Jurusan Sejarah UNNES
